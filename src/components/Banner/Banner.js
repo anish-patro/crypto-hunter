@@ -57,6 +57,8 @@ const Banner = () => {
                         Get all the Info regarding your favorite Crypto Currency
                     </Typography>
                 </div>
+
+                
                 <Carousel />
             </Container>
         </div>
